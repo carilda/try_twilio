@@ -1,1 +1,3 @@
 Informal twilio project to explore twilio features and functions.
+Using django-twilio for the decorator(s).
+

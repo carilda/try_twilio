@@ -1,3 +1,6 @@
 .*.swp
 *.old
 *.sav
+*.pyc
+*.pyo
+
